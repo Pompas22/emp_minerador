@@ -1,2 +1,7 @@
 # emp_minerador
-EMPREGO DE MINERADOR DESENVOLVIDO PELA DEV2UP, EM CASO DE PROBLEMA OU BUGS ENTRAR EM CONTATO CONOSCO PELO DISCORD: https://discord.gg/KWxsjNvJRK
+
+Um emprego de minerador otimizado e totalmente funcional criado por nós da DEV2UP
+
+Open source
+
+script criado por https://discord.gg/KWxsjNvJRK
