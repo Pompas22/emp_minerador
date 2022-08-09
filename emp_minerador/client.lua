@@ -99,7 +99,7 @@ CreateThread(function()
                     vRP._playAnim(true,{{"anim@mp_player_intmenu@key_fob@","fob_click"}},false)
                     ClearPedTasks(ped)
                     Wait(800)
-                    AddExplosion(mineirar[selected]['coords'][1],mineirar[selected]['coords'][2],mineirar[selected]['coords'][3],2,100.0,true,false,true)
+                    AddExplosion(mineirar[selected]['coords'][1],mineirar[selected]['coords'][2],mineirar[selected]['coords'][3],2,0.0,true,false,true)
                     DeleteEntity(objectBomb)
                     positionc4 = false
                     dropitem = true
